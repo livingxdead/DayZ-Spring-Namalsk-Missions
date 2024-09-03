@@ -1,5 +1,5 @@
 # DayZ-Spring-Namalsk-Missions
-DayZ Spring Namalsk config and mission files for the Spring Namalsk Mod.
+DayZ Spring Namalsk configs and mission files for the Spring Namalsk Mod.
 
 # Installation
 * Make sure you have [Namalsk Island](https://steamcommunity.com/sharedfiles/filedetails/?id=2289456201) and [Namalsk Survival](https://steamcommunity.com/sharedfiles/filedetails/?id=2289461232) mods installed.
