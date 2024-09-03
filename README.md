@@ -7,5 +7,5 @@ DayZ Spring Namalsk config and mission files for the Spring Namalsk Mod.
 * Use the config from Server Configs folder for the version you want to run.
 * Copy the mission folder you want from the Mission Files folder to your mpmissions folder and configure the loot to your liking.
 
-#Issues
+# Issues
 If you have any issues with installation or want to report a bug please do so at the [Discord](https://discord.gg/DvBmGvfGw6)
